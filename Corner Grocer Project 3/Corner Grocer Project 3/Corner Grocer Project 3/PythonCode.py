@@ -1,6 +1,5 @@
 # Adrianne Perroidn
 # 06/19/2021
-# Module 7
 # Corner Grocer App
 
 import re

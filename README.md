@@ -1,5 +1,7 @@
 # Portfolio
 
+These are all class projects I have completed so far and feel proud of.
+
 Corner Grocer Project - Python talks to C++! Python code is used to read a file while the C++ code is used for interaction with the user to display a menu
 
 LinkedList - C++ Linked List Data Stucture, reads a data file
